@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "yeees-38",
+    "title": "YEEES 38: Delft",
+    "cost": "Free",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "venue": "Delft University of Technology",
+    "location": "Jaffaalaan 5, Delft, 2628 BX Netherlands",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Jaffaalaan+5+Delft+2628+BX+Netherlands",
+    "image": "https://images.unsplash.com/photo-1565475481456-8c5ffabd7836?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0",
+    "summary": "The 38th Young Energy Economists and Engineers Seminar (YEEES) is hosted by the Faculty of Technology, Policy and Management at Delft University of Technology in Delft, The Netherlands.",
+    "registrationUrl": "https://forms.gle/ou3gGBxQpSeWgvaJA",
+    "registrationDeadline": "2026-07-12",
+    "description": [
+      "On October 29 and 30, 2026, the 38th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Faculty of Technology, Policy and Management at Delft University of Technology in Delft, The Netherlands. The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come from both industry and academia, and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present their critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by July 12. Please limit the abstract to 2000 characters.",
+      "• By July 17, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by October 11. Please limit the paper to 20 pages (excluding the appendix), single-spaced, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by October 26.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering by October 26."
+    ],
+    "importantDates": [
+      "July 12, 2026: abstract submission and registration of authors",
+      "July 17, 2026: notification of acceptance",
+      "October 11, 2026: full paper submission",
+      "October 26, 2026: feedback submission (as a junior reviewer of another participant’s paper)"
+    ],
+    "programUrl": "",
+    "program": [
+      "You will find the program here after the notification of acceptance deadline."
+    ],
+    "organizers": [
+      { "name": "Kenneth Bruninx", "email": "kenneth.bruninx@tudelft.nl" }
+    ]
+  }
+]
