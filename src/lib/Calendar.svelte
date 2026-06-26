@@ -1,4 +1,5 @@
 <script>
+  import { withBase } from '/src/lib/baseUrl.js';
   import { formatDateRange } from './dateHelpers.js'
   export let events = []
 
@@ -21,7 +22,7 @@
           <p class="event-meta">{formatDateRange(event.startDate, event.endDate)}</p>
           <p class="event-location"><a href={event.mapsUrl} target="_blank" rel="noreferrer">{event.location}</a></p>
           <p>{event.summary}</p>
-          <a class="button secondary" href={`/event/${event.slug}`}>View event</a>
+          <a class="button secondary" href={withBase(`/event/${event.slug}`)}>View event</a>
         </div>
       </article>
     </div>

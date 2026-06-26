@@ -1,4 +1,5 @@
 <script>
+  import { withBase } from '/src/lib/baseUrl.js';
   import events from '../data/events.json'
   import { formatDateRange } from './dateHelpers.js'
 
@@ -48,7 +49,7 @@
         {#each upcomingEvents as event}
           <article class="event-summary">
             <div class="event-date">{formatDateRange(event.startDate, event.endDate)}</div>
-            <a href={`/event/${event.slug}`}>{event.title}</a>
+            <a href={withBase(`/event/${event.slug}`)}>{event.title}</a>
             <p class="event-location">{event.venue}</p>
           </article>
         {/each}
@@ -106,7 +107,7 @@
     <div class="logo-grid">
       {#each networkLogos as item}
         <a href={item.url} class="logo-pill" target="_blank" rel="noreferrer">
-          <img src={`/logos/${item.file}`} alt={item.name} class="logo-image" />
+          <img src={withBase(`/logos/${item.file}`)} alt={item.name} class="logo-image" />
         </a>
       {/each}
     </div>

@@ -1,4 +1,5 @@
 <script>
+  import { withBase } from '/src/lib/baseUrl.js';
   import { formatDate, formatDateRange } from './lib/dateHelpers.js'
 
   export let event = null
@@ -117,7 +118,7 @@
     <div class="container">
       <h1>Event not found</h1>
       <p>The event you are looking for does not exist yet.</p>
-      <a class="button primary" href="/index.html">Return home</a>
+      <a class="button primary" href={withBase(`/index.html`)}>Return home</a>
     </div>
   </section>
 {/if}

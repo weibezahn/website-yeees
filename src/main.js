@@ -1,3 +1,4 @@
+import { mount } from 'svelte';
 import App from './App.svelte'
 import './styles/global.css'
 
@@ -14,9 +15,9 @@ if (pathname.endsWith('/tips.html')) {
   eventSlug = pathname.replace(/^\/event\//, '').replace(/\/$/, '')
 }
 
-const app = new App({
-  target: document.getElementById('app'),
+const app = mount(App, {
+  target: document.getElementById("app"),
   props: { page, eventSlug }
-})
+});
 
 export default app
