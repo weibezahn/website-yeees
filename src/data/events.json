@@ -1,19 +1,995 @@
 [
   {
+    "slug": "yeees-4",
+    "title": "YEEES 4: Paris 2007",
+    "cost": "Free",
+    "startDate": "2007-09-28",
+    "endDate": "2007-09-29",
+    "venue": "Université Paris-Sud",
+    "location": "Paris, France",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Paris+France",
+    "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94",
+    "summary": "Hosted by Université Paris-Sud (Paris, France).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 4th Young Energy Economists and Engineers Seminar (YEEES) was held at Université Paris-Sud in Paris, France."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Yannik Perez",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-5",
+    "title": "YEEES 5: Madrid 2008",
+    "cost": "Free",
+    "startDate": "2008-09-19",
+    "endDate": "2008-09-20",
+    "venue": "Comillas Pontifical University",
+    "location": "Madrid, Spain",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Madrid+Spain",
+    "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325",
+    "summary": "Hosted by Comillas Pontifical University (Madrid, Spain).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 5th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": []
+  },
+  {
+    "slug": "yeees-6",
+    "title": "YEEES 6: Florence 2009",
+    "cost": "Free",
+    "startDate": "2009-06-01",
+    "endDate": "2009-06-02",
+    "venue": "European University Institute - Florence School of Regulation",
+    "location": "Via della Badia dei Roccettini 9, Fiesole, 50014, FI",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Via+della+Badia+dei+Roccettini+9+Fiesole+50014+FI",
+    "image": "https://images.unsplash.com/photo-1472507393786-716cd8288c07",
+    "summary": "Hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 6th Young Energy Economists and Engineers Seminar (YEEES) was held at the Florence School of Regulation (FSR) at the European University Institute (EUI) in Florence, Italy."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": []
+  },
+  {
+    "slug": "yeees-8",
+    "title": "YEEES 8: Cambridge 2010",
+    "cost": "Free",
+    "startDate": "2010-04-08",
+    "endDate": "2010-04-19",
+    "venue": "University of Cambridge",
+    "location": "Cambridge, United Kingdom",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=University+of+Cambridge",
+    "image": "https://images.unsplash.com/photo-1627411437849-4bc5a9b9341d",
+    "summary": "Hosted by University of Cambridge (Cambridge, United Kingdom).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 8th Young Energy Economists and Engineers Seminar (YEEES) was held at the University of Cambridge in United Kingdom."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": []
+  },
+  {
+    "slug": "yeees-11",
+    "title": "YEEES 11: Madrid 2011",
+    "cost": "Free",
+    "startDate": "2011-11-24",
+    "endDate": "2011-11-25",
+    "venue": "Comillas Pontifical University",
+    "location": "Madrid, Spain",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Madrid+Spain",
+    "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325",
+    "summary": "Hosted by Comillas Pontifical University (Madrid, Spain).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 11th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": []
+  },
+  {
+    "slug": "yeees-12",
+    "title": "YEEES 12: Berlin 2012",
+    "cost": "Free",
+    "startDate": "2012-04-25",
+    "endDate": "2012-04-26",
+    "venue": "Technische Universität Berlin",
+    "location": "Straße des 17. Juni 135, Berlin, 10623, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Stra%C3%9Fe+des+17.+Juni+135+Berlin+10623+Germany",
+    "image": "https://images.unsplash.com/photo-1641135762202-ba1e0e14bfe8",
+    "summary": "Hosted by the Workgroup for Infrastructure Policy (WIP) at Technische Universität Berlin (Berlin, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 12th Young Energy Economists and Engineers Seminar (YEEES) was held at the Workgroup for Infrastructure Policy (WIP) at Technische Universität Berlin in Berlin, Germany."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Jonas Egerer",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-13",
+    "title": "YEEES 13: Florence 2012",
+    "cost": "Free",
+    "startDate": "2012-12-07",
+    "endDate": "2012-12-07",
+    "venue": "European University Institute - Florence School of Regulation",
+    "location": "Via della Badia dei Roccettini 9, Fiesole, 50014, FI",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Via+della+Badia+dei+Roccettini+9+Fiesole+50014+FI",
+    "image": "https://images.unsplash.com/photo-1472507393786-716cd8288c07",
+    "summary": "Hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 13th Young Energy Economists and Engineers Seminar (YEEES) was held at the Florence School of Regulation (FSR) at the European University Institute (EUR) in Florence, Italy."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": []
+  },
+  {
+    "slug": "yeees-14",
+    "title": "YEEES 14: Vienna 2013",
+    "cost": "Free",
+    "startDate": "2013-03-21",
+    "endDate": "2013-03-22",
+    "venue": "Technische Universität Wien",
+    "location": "Vienna, Austria",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Vienna+Austria",
+    "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af",
+    "summary": "Hosted by Technische Universität Wien (Vienna, Austria).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 14th Young Energy Economists and Engineers Seminar (YEEES) was held at Technische Universität Wien in Vienna, Austria."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "André Ortner",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-15",
+    "title": "YEEES 15: Stockholm 2013",
+    "cost": "Free",
+    "startDate": "2013-10-24",
+    "endDate": "2013-10-25",
+    "venue": "KTH Stockholm",
+    "location": "Stockholm, Sweden",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Stockholm",
+    "image": "https://images.unsplash.com/photo-1575566774873-db59c600a166",
+    "summary": "Hosted by KTH Stockholm (Stockholm, Sweden).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 15th Young Energy Economists and Engineers Seminar (YEEES) was held at KTH Stockholm in Stockholm, Sweden."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Richard Scharf",
+        "email": ""
+      },
+      {
+        "name": "Camille Hamon",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-16",
+    "title": "YEEES 16: Dresden 2014",
+    "cost": "Free",
+    "startDate": "2014-04-09",
+    "endDate": "2014-04-10",
+    "venue": "Technische Universität Dresden",
+    "location": "Dresden, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dresden+Germany",
+    "image": "https://images.unsplash.com/photo-1639071923957-dfaae89189bb",
+    "summary": "Hosted by Technische Universität Dresden (Dresden, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 16th Young Energy Economists and Engineers Seminar (YEEES) was held at Technische Universität Dresden in Dresden, Germany."],
+    "importantDates": [],
+    "programUrl": "yeees-16-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Alexander von Selasinsky",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-17",
+    "title": "YEEES 17: Leuven 2014",
+    "cost": "Free",
+    "startDate": "2014-11-27",
+    "endDate": "2014-11-28",
+    "venue": "KU Leuven",
+    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
+    "summary": "Hosted by KU Leuven (Leuven, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "2014-09-15",
+    "description": ["The 17th Young Energy Economists and Engineers Seminar (YEEES) was held at KU Leuven in Leuven, Belgium."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Kenneth van den Bergh",
+        "email": ""
+      },
+      {
+        "name": "Eric Delarue",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-18",
+    "title": "YEEES 18: Paris 2015",
+    "cost": "Free",
+    "startDate": "2015-06-04",
+    "endDate": "2015-06-05",
+    "venue": "Université Paris-Sud",
+    "location": "Paris, France",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Paris+France",
+    "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94?q=80&w=3241&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Hosted by Université Paris-Sud (Paris, France).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 18th Young Energy Economists and Engineers Seminar (YEEES) was held at Université Paris-Sud in Paris, France."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Yannik Perez",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-19",
+    "title": "YEEES 19: Madrid 2015",
+    "cost": "Free",
+    "startDate": "2015-11-02",
+    "endDate": "2015-11-04",
+    "venue": "Comillas Pontifical University",
+    "location": "Madrid, Spain",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Madrid+Spain",
+    "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325",
+    "summary": "Hosted by Comillas Pontifical University (Madrid, Spain).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 19th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Aurora del Valle Díez",
+        "email": ""
+      },
+      {
+        "name": "Pablo Dueñas",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-20",
+    "title": "YEEES 20: Basel 2016",
+    "cost": "Free",
+    "startDate": "2016-04-28",
+    "endDate": "2016-04-29",
+    "venue": "University of Basel",
+    "location": "Basel, Switzerland",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Basel+Switzerland",
+    "image": "https://images.unsplash.com/photo-1650989343425-24f77ea4b933",
+    "summary": "Hosted by University of Basel (Basel, Switzerland).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 20th Young Energy Economists and Engineers Seminar (YEEES) was held at University of Basel in Basel, Switzerland."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Hannes Weigt",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-21",
+    "title": "YEEES 21: Edinburgh 2016",
+    "cost": "Free",
+    "startDate": "2016-11-27",
+    "endDate": "2016-11-28",
+    "venue": "University of Edinburgh",
+    "location": "Edinburgh, United Kingdom",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Edinburgh+United+Kingdom",
+    "image": "https://images.unsplash.com/photo-1567802942109-0a5d92ed35b8",
+    "summary": "Hosted by University of Edinburgh (Edinburgh, United Kingdom).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 21st Young Energy Economists and Engineers Seminar (YEEES) was held at University of Edinburgh in Edinburgh, United Kingdom."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Harry van der Weijde",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-22",
+    "title": "YEEES 22: Nuremberg 2017",
+    "cost": "Free",
+    "startDate": "2017-04-27",
+    "endDate": "2017-04-28",
+    "venue": "Friedrich-Alexander University Erlangen-Nürnberg",
+    "location": "Nuremberg, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Nuremberg+Germany",
+    "image": "https://images.unsplash.com/photo-1590651639672-5f0178aa4812",
+    "summary": "Hosted by Friedrich-Alexander University Erlangen-Nürnberg (Nuremberg, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 22nd Young Energy Economists and Engineers Seminar (YEEES) was held at Friedrich-Alexander University Erlangen-Nürnberg in Nuremberg, Germany."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Jonas Egerer",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-23",
+    "title": "YEEES 23: Łódź 2017",
+    "cost": "Free",
+    "startDate": "2017-10-26",
+    "endDate": "2017-10-27",
+    "venue": "Łódź University of Technology",
+    "location": "Łódź, Poland",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Łódź+Poland",
+    "image": "https://images.unsplash.com/photo-1604322698351-16fa293e43c7",
+    "summary": "Hosted by Łódź University of Technology (Łódź, Poland).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": ["The 23rd Young Energy Economists and Engineers Seminar (YEEES) was held at Łódź University of Technology in Łódź, Poland."],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Izabela Filipiak",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-24",
+    "title": "YEEES 24: Delft 2018",
+    "cost": "Free",
+    "startDate": "2018-04-12",
+    "endDate": "2018-04-13",
+    "venue": "Delft University of Technology",
+    "location": "Jaffaalaan 5, Delft, 2628 BX, Netherlands",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Jaffaalaan+5+Delft+2628+BX+Netherlands",
+    "image": "https://images.unsplash.com/photo-1565475481456-8c5ffabd7836",
+    "summary": "Hosted by Delft University of Technology (Delft, The Netherlands).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [
+      "On April 12th and 13th 2018, Delft University of Technology (Netherlands) hosted the spring edition of the Young Energy Economists & Engineers Seminar. Special thanks go to João Gorenstein Dedecca and his team for their personal effort in the organization. 22 PhD students for all over Europe took part in discussions concerning the papers of their peers.",
+      "PRESENTATIONS",
+      "• Frederik Banis (Technical University of Denmark) Utilizing flexibility in microgrids using model predictive control",
+      "• Selma Causevic (Delft University of Technology)",
+      "• Michael Chesser (Dublin Institute of Technology) Is empowering Irish energy citizens working?",
+      "• Isaac Gonzalez (Pontificia Universidad Comillas) Proactive bi-level GEPTEP with storage considerations",
+      "• Sam Hamels (Ghent University) Replacing fossil-fuelled peakers with batteries – a security of supply perspective",
+      "• Ann-Katrin Hanke (Karlsruhe Institute of Technology) Reducing cost uncertainty by refunding prequalification costs in auctions for renewable energy support",
+      "• Paul-Hervé Tamokoue Kamga (Mines ParisTech) Home energy efficiency investments in response to energy price variations: evidence from France",
+      "• Cyril Martin De Lagarde (Université Paris-Dauphine) Drivers and diffusion of residential photovoltaics in France",
+      "• Paul Malliet (OFCE-Sciences Po) Estimating the elasticity of substitution between capital and energy from abatement curves: the case of the French industry",
+      "• Carla Mendes (University of Basel) Pricing reliability – on optimal imbalance prices",
+      "• Jelle Meus (KU Leuven) An international market for tradable green certificates: the impact of transmission congestion on efficiency and distributional welfare effects",
+      "• Longjian Piao (Delft University of Technology) Electricity market for direct current distribution systems: a survey of the design space",
+      "• Anna Garcia-Teruel (The University of Edinburgh) Integrating socio-economic scenarios into power system modelling: a case study of the energy transition in Europe",
+      "• Charlotte Scouflaire (Université Paris Dauphine) Information disclosure choice: Condorcet winning public information applied to capacity markets in liberalized power systems",
+      "• Nina Voulis (Delft University of Technology) Rethinking European energy taxation to incentivise consumer demand response participation",
+      "• Meng Wang (Delft University of Technology) Efficient heating and cooling approaches by using the novel ionic liquids within NH3 absorption systems",
+      "• Jens Weibezahn (Technische Universität Berlin) Joulia.jl – a large-scale spatial open-source electricity sector model using the Julia language"
+    ],
+    "importantDates": [],
+    "programUrl": "yeees-24-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "João Gorenstein Dedecca",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-25",
+    "title": "YEEES 25: Florence 2018",
+    "cost": "Free",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "venue": "European University Institute - Florence School of Regulation",
+    "location": "Via della Badia dei Roccettini 9, Fiesole, 50014, FI",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Via+della+Badia+dei+Roccettini+9+Fiesole+50014+FI",
+    "image": "https://images.unsplash.com/photo-1472507393786-716cd8288c07",
+    "summary": "Hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy).",
+    "registrationUrl": "",
+    "registrationDeadline": "2018-09-15",
+    "description": [
+      "On November 8th and 9th 2018, the 25th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two opponents will be selected before the seminar: one senior researcher and one of the participating PhD students. This means, every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each opponent will have around 5-10 minutes to present her critical review and to give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstract by the 15th of September. Please limit the abstract to 2000 characters.",
+      "• On the 20th of September, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed-in by the 15th of October. Please limit the paper to 20 pages (excluding appendix), single space, 10 point font. Papers should be sent to YEEESFlorence@gmail.com.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers.",
+      "• People wishing to attend, but not present a paper can so (if there are seats left) by registering until October 15th."
+    ],
+    "importantDates": [
+      "September 15, 2018: abstract submission and registration authors",
+      "September 20, 2018: notification of acceptance",
+      "October 15, 2018: full paper submission",
+      "October 22, 2018: distribution of peer reviews"
+    ],
+    "programUrl": "yeees-25-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Tim Schittekatte",
+        "email": "YEEESFlorence@gmail.com"
+      },
+      {
+        "name": "Athir Nouicer",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-26",
+    "title": "YEEES 26: Leuven 2019",
+    "cost": "Free",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-04",
+    "venue": "KU Leuven",
+    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
+    "summary": "Hosted by KU Leuven (Leuven, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "2019-04-11",
+    "description": [
+      "On June 3 and 4, 2019, the 26th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by KU Leuven (Leuven, Belgium). The seminar gives PhD students and early-career researchers the opportunity to present their working papers and receive feedback from peers and senior reviewers in a friendly, constructive, and interdisciplinary atmosphere.",
+      "For each paper, two opponents will be selected before the seminar: one senior researcher and one of the participating PhD students. This means that every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from academia and industry and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper 20 minutes will be available. Then, each opponent will have around 5-10 minutes to present her critical review and to give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstract by April 11. Please limit the abstract to 2000 characters.",
+      "• On the April 15, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by May 15. Please limit the paper to 20 pages (excluding appendix), single space, 10 point font. Papers should be sent to yeees.leuven2019@kuleuven.be.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers.",
+      "• People wishing to attend, but not present a paper can so (if there are seats left) by registering until May 15."
+    ],
+    "importantDates": [
+      "April 11, 2019: abstract submission and registration of authors",
+      "April 15, 2019: notification of acceptance",
+      "May 15, 2019: full paper submission"
+    ],
+    "programUrl": "",
+    "program": ["The program is unfortnately not available online."],
+    "organizers": [
+      {
+        "name": "Eric Delarue",
+        "email": ""
+      },
+      {
+        "name": "Kris Poncelet",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-27",
+    "title": "YEEES 27: Berlin 2019",
+    "cost": "Free",
+    "startDate": "2019-10-10",
+    "endDate": "2019-10-11",
+    "venue": "Technische Universität Berlin",
+    "location": "Straße des 17. Juni 135, Berlin, 10623, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Stra%C3%9Fe+des+17.+Juni+135+Berlin+10623+Germany",
+    "image": "https://images.unsplash.com/photo-1641135762202-ba1e0e14bfe8",
+    "summary": "Hosted by the Workgroup for Infrastructure Policy (WIP) at Technische Universität Berlin (Berlin, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "2019-08-15",
+    "description": [
+      "On October 10 and 11, 2019, the 27th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Workgroup for Infrastructure Policy (WIP) at Technische Universität Berlin (Berlin, Germany). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two opponents will be selected before the seminar: one senior researcher and one of the participating PhD students. This means, every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each opponent will have around 5-10 minutes to present her critical review and to give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstract by August 15. Please limit the abstract to 2000 characters.",
+      "• On August 15, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by September 1. Please limit the paper to 20 pages (excluding appendix), single space, 10 point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers.",
+      "• People wishing to attend, but not present a paper can so (if there are seats left) by registering until September 15."
+    ],
+    "importantDates": [
+      "August 15, 2019: abstract submission and registration of authors",
+      "August 15, 2019: notification of acceptance",
+      "September 1, 2019: full paper submission"
+    ],
+    "programUrl": "yeees-27-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Jens Weibezahn",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-28",
+    "title": "YEEES 28: Paris 2021",
+    "cost": "Free",
+    "startDate": "2021-06-02",
+    "endDate": "2021-06-04",
+    "venue": "Online",
+    "location": "",
+    "mapsUrl": "",
+    "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94?q=80&w=3241&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Online, hosted by CentraleSupélec (Paris, France).",
+    "registrationUrl": "",
+    "registrationDeadline": "2021-04-18",
+    "description": [
+      "On June 3 and 4, 2021, the 28th Young Energy Economists and Engineers Seminar (YEEES) will be held online and hosted by CentraleSupélec (Paris, France). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two opponents will be selected before the seminar: one senior researcher and one of the participating PhD students. This means, every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each opponent will have around 5-10 minutes to present her critical review and to give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstract by April 18. Please limit the abstract to 2000 characters.",
+      "• By May 3, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by May 23. Please limit the paper to 20 pages (excluding appendix), single space, 10 point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers.",
+      "• People wishing to attend, but not present a paper can so (if there are seats left) by registering (registration will open soon) until May 29.",
+      "Note: this event precedes the 1st IAEE Online Conference, which takes place on June 7-9, 2021."
+    ],
+    "importantDates": [
+      "April 18, 2021: abstract submission and registration of authors",
+      "May 3, 2021: notification of acceptance",
+      "May 23, 2021: full paper submission"
+    ],
+    "programUrl": "yeees-28-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Yannik Perez",
+        "email": ""
+      },
+      {
+        "name": "Quentin Hoarau",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-29",
+    "title": "YEEES 29: Ghent 2022",
+    "cost": "Free",
+    "startDate": "2022-05-12",
+    "endDate": "2022-05-13",
+    "venue": "Universiteit Gent",
+    "location": "Sint-Pietersplein 5, Ghent, 9000, Belgium",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Sint-Pietersplein+5+Ghent+9000+Belgium",
+    "image": "https://images.unsplash.com/photo-1653943843259-91a052ee35d2",
+    "summary": "Hosted by Universiteit Gent (Ghent, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "2022-02-28",
+    "description": [
+      "On May 12 and 13, 2022, the 29th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by Universiteit Gent (Ghent, Belgium). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating PhD students. This means, every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and to give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstract by February 28. Please limit the abstract to 2000 characters.",
+      "• By March 14, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by May 1. Please limit the paper to 20 pages (excluding appendix), single space, 10 point font.",
+      "• Papers are sorted by the organizers and distributed to two reviewers. We do not publish papers. Junior reviewers have to submit their feedback by May 10.",
+      "• People that want to attend without presenting a paper, can do so (if there are seats left), by registering until May 8."
+    ],
+    "importantDates": [
+      "February 28, 2022: abstract submission and registration of authors",
+      "March 14, 2022: notification of acceptance",
+      "May 1, 2022: full paper submission",
+      "May 10, 2022: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-29.program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Sam Hamels",
+        "email": "YEEES.2022.Ghent@gmail.com"
+      }
+    ]
+  },
+  {
+    "slug": "yeees-30",
+    "title": "YEEES 30: Copenhagen 2022",
+    "cost": "Free",
+    "startDate": "2022-09-07",
+    "endDate": "2022-09-08",
+    "venue": "Copenhagen Business School",
+    "location": "Dalgas Have 15, Frederiksberg, 2000, Denmark",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dalgas+Have+15+Frederiksberg+2000+Denmark",
+    "image": "https://images.unsplash.com/photo-1548186879-9a93eed687ef",
+    "summary": "Hosted by the Copenhagen School of Energy Infrastructure (CSEI) and the Danish Technical University (DTU) at Copenhagen Business School (Copenhagen, Denmark).",
+    "registrationUrl": "",
+    "registrationDeadline": "2022-06-30",
+    "description": [
+      "On September 7 and 8, 2022, the 30th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Copenhagen School of Energy Infrastructure (CSEI) and the Danish Technical University (DTU) at Copenhagen Business School (Copenhagen, Denmark). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating PhD students. This means every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by June 30. Please limit the abstract to 2000 characters.",
+      "• By July 15, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by August 21. Please limit the paper to 20 pages (excluding the appendix), single space, 10 point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by September 5.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until September 4.",
+      "Note: this event precedes the 1st CSEI Sustainable Energy Day (SustainED), which takes place on September 9, 2022."
+    ],
+    "importantDates": [
+      "June 30, 2022: abstract submission and registration of authors",
+      "July 15, 2022: notification of acceptance",
+      "August 21, 2022: full paper submission",
+      "September 5, 2022: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-30-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Jens Weibezahn",
+        "email": "jew.eco@cbs.dk"
+      },
+      {
+        "name": "Alexandra Lüth",
+        "email": "al.eco@cbs.dk"
+      }
+    ]
+  },
+  {
+    "slug": "yeees-31",
+    "title": "YEEES 31: Vienna 2023",
+    "cost": "Free",
+    "startDate": "2023-05-11",
+    "endDate": "2023-05-12",
+    "venue": "Technische Universität Wien",
+    "location": "Vienna, Austria",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Vienna+Austria",
+    "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af",
+    "summary": "Hosted by the Energy Economics Group (EEG) at Technische Universität Wien (Vienna, Austria).",
+    "registrationUrl": "",
+    "registrationDeadline": "2023-02-28",
+    "description": [
+      "On May 11 and 12, 2023, the 31st Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Energy Economics Group (EEG) at Technische Universität Wien (Vienna, Austria). The seminar gives PhD students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating PhD students. This means every participant will present his or her work and also review another PhD student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and PhD reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by February 28. Please limit the abstract to 2000 characters.",
+      "• By March 10, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) have to be handed in by April 23. Please limit the paper to 20 pages (excluding the appendix), single space, 10 point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by May 8.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until May 7."
+    ],
+    "importantDates": [
+      "February 28, 2023: abstract submission and registration of authors",
+      "March 10, 2023: notification of acceptance",
+      "April 23, 2023: full paper submission",
+      "May 8, 2023: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-31-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Antonia Golab",
+        "email": ""
+      },
+      {
+        "name": "Sebastian Zwickl-Bernhard",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-32",
+    "title": "YEEES 32: Nuremberg 2023",
+    "cost": "Free",
+    "startDate": "2023-10-05",
+    "endDate": "2023-10-06",
+    "venue": "Friedrich-Alexander University Erlangen-Nürnberg",
+    "location": "Nuremberg, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Nuremberg+Germany",
+    "image": "https://images.unsplash.com/photo-1590651639672-5f0178aa4812",
+    "summary": "Hosted by the School of Business, Economics, and Society at Friedrich-Alexander-Universität Erlangen-Nürnberg (Nuremberg, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "2023-07-14",
+    "description": [
+      "On October 5 and 6, 2023, the 32nd Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the School of Business, Economics, and Society at Friedrich-Alexander-Universität Erlangen-Nürnberg (Nuremberg, Germany). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by July 14. Please limit the abstract to 2000 characters.",
+      "• By July 23, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by September 10. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by October 2.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until October 2."
+    ],
+    "importantDates": [
+      "July 14, 2023: abstract submission and registration of authors",
+      "July 23, 2023: notification of acceptance",
+      "September 10, 2023: full paper submission",
+      "October 2, 2023: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-32-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Ulrike Pfefferer",
+        "email": ""
+      },
+      {
+        "name": "Johannes Wirth",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-33",
+    "title": "YEEES 33: Leuven 2024",
+    "cost": "Free",
+    "startDate": "2024-05-30",
+    "endDate": "2024-05-31",
+    "venue": "KU Leuven",
+    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
+    "summary": "Hosted by the Energy Systems Integration & Modeling group at KU Leuven (Leuven, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "2024-02-28",
+    "description": [
+      "On May 30 and 31, 2024, the 33rd Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Energy Systems Integration & Modeling group at KU Leuven (Leuven, Belgium). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by February 28. Please limit the abstract to 2000 characters.",
+      "• By March 10, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by May 12. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by May 27.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until May 27."
+    ],
+    "importantDates": [
+      "February 28, 2024: abstract submission and registration of authors",
+      "March 10, 2024: notification of acceptance",
+      "May 12, 2024: full paper submission",
+      "May 27, 2024: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-33-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Flore Verbist",
+        "email": "flore.verbist@kuleuven.be"
+      },
+      {
+        "name": "Yucun Lu",
+        "email": "yucun.lu@kuleuven.be"
+      },
+      {
+        "name": "Justus Böning",
+        "email": "justus.boening@kuleuven.be"
+      }
+    ]
+  },
+  {
+    "slug": "yeees-34",
+    "title": "YEEES 34: Durham 2024",
+    "cost": "Free",
+    "startDate": "2024-09-12",
+    "endDate": "2024-09-13",
+    "venue": "Durham University Business School",
+    "location": "Millhill Lane, Durham, DH1 3LB, United Kingdom",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Millhill+Lane+Durham+DH1+3LB+United+Kingdom",
+    "image": "https://images.unsplash.com/photo-1633432111221-8b25d9c73c42",
+    "summary": "Hosted by the Centre for Environmental and Energy Economics (CE3) at Durham University Business School (DUBS) and the Durham Energy Institute (DEI) at Durham University (Durham, United Kindom).",
+    "registrationUrl": "",
+    "registrationDeadline": "2024-07-18",
+    "description": [
+      "On September 12 and 13, 2024, the 34th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Centre for Environmental and Energy Economics (CE3) at Durham University Business School (DUBS) and the Durham Energy Institute (DEI) at Durham University Durham, United Kindom). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by July 18. Please limit the abstract to 2000 characters.",
+      "• By July 19, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by August 23. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by September 9.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until September 9."
+    ],
+    "importantDates": [
+      "July 18, 2024: abstract submission and registration of authors",
+      "July 19, 2024: notification of acceptance",
+      "August 23, 2024: full paper submission",
+      "September 9, 2024: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-34-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Laura Marsiliani",
+        "email": "laura.marsiliani@durham.ac.uk"
+        }
+    ]
+  },
+  {
+    "slug": "yeees-35",
+    "title": "YEEES 35: Paris 2025",
+    "cost": "Free",
+    "startDate": "2025-06-13",
+    "endDate": "2025-06-14",
+    "venue": "Université Paris-Nanterre",
+    "location": "200 Av. de la République, Nanterre, 92000 France",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=200+Av.+de+la+R%C3%A9publique+Nanterre+92000+France",
+    "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94",
+    "summary": "Hosted at Université Paris-Nanterre (Paris, France).",
+    "registrationUrl": "",
+    "registrationDeadline": "2025-03-15",
+    "description": [
+      "On June 13 and 14, 2025, the 35th Young Energy Economists and Engineers Seminar (YEEES) will be hosted in Paris, France. The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by March 15. Please limit the abstract to 2000 characters.",
+      "• By March 31, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by May 25. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by June 9.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until June 9.",
+      "Note: this event precedes the 46th IAEE International Conference, which takes place on June 15-18, 2025."
+    ],
+    "importantDates": [
+      "March 15, 2025: abstract submission and registration of authors",
+      "March 31, 2025: notification of acceptance",
+      "May 25, 2025: full paper submission",
+      "June 9, 2025: feedback submission (as a junior reviewer of another participant’s paper)"
+    ],
+    "programUrl": "yeees-35-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Quentin Hoarau",
+        "email": ""
+      },
+      {
+        "name": "Jules Welgryn",
+        "email": ""
+      },
+      {
+        "name": "Ariane Bousquet",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-36",
+    "title": "YEEES 36: Cologne 2025",
+    "cost": "Free",
+    "startDate": "2025-10-09",
+    "endDate": "2025-10-10",
+    "venue": "Universität zu Köln",
+    "location": "University of Cologne, Cologne, Germany",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Universit%C3%A4t+zu+K%C3%B6ln+Cologne+Germany",
+    "image": "https://images.unsplash.com/photo-1561624485-0e43bcc1836d",
+    "summary": "Hosted by the Institute of Energy Economics at the University of Cologne (EWI) (Cologne, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "2025-07-16",
+    "description": [
+      "On October 9 and 10, 2025, the 36th Young Energy Economists and Engineers Seminar (YEEES) was hosted by the Institute of Energy Economics at the University of Cologne (EWI) in Cologne, Germany. The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers were selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant presented his or her work and also reviewed another Ph.D. student’s work. Senior reviewers came both from industry and academia and the review assignments were made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, 20 minutes were available. Then, each reviewer had around 5-10 minutes to present her critical review and to give constructive comments. This was followed by questions and remarks from the audience.",
+      "• Authors were requested to register and send their abstracts by July 16. Please limit the abstract to 2000 characters.",
+      "• By July 18, authors were notified of their acceptance (seats were limited).",
+      "• Full papers (consistent finished or draft version) had to be handed in by September 14. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers were sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers had to submit their feedback by October 6.",
+      "• People wishing to attend without presenting a paper could do so (if there were seats left) by registering until October 6."
+    ],
+    "importantDates": [
+      "July 16, 2025: abstract submission and registration of authors",
+      "July 18, 2025: notification of acceptance",
+      "September 14, 2025: full paper submission",
+      "October 6, 2025: feedback submission (as a junior reviewer of another participant’s paper)"
+    ],
+    "programUrl": "yeees-36-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Oliver Ruhnau",
+        "email": ""
+      },
+      {
+        "name": "Polina Emelianova",
+        "email": ""
+      },
+      {
+        "name": "Martin Lange",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-37",
+    "title": "YEEES 37: Florence 2026",
+    "cost": "Free",
+    "startDate": "2026-04-16",
+    "endDate": "2026-04-17",
+    "venue": "European University Institute - Florence School of Regulation",
+    "location": "Via della Badia dei Roccettini 9, Fiesole, 50014, FI",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Via+della+Badia+dei+Roccettini+9+Fiesole+50014+FI",
+    "image": "https://images.unsplash.com/photo-1472507393786-716cd8288c07",
+    "summary": "Hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy).",
+    "registrationUrl": "",
+    "registrationDeadline": "2026-01-18",
+    "description": [
+      "On April 16 and 17, 2026, the 37th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) in Florence, Italy. The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come both from industry and academia and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present her critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by January 18. Please limit the abstract to 2000 characters.",
+      "• By January 23, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by March 29. Please limit the paper to 20 pages (excluding the appendix), single space, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by April 13.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering until April 13."
+    ],
+    "importantDates": [
+      "January 18, 2026: abstract submission and registration of authors",
+      "January 23, 2026: notification of acceptance",
+      "March 29, 2026: full paper submission",
+      "April 13, 2026: feedback submission (as a junior reviewer of another participant's paper)"
+    ],
+    "programUrl": "yeees-37-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Marzia Sesini",
+        "email": "marzia.sesini@eui.eu"
+      },
+      {
+        "name": "Emma Menegatti",
+        "email": "emma.menegatti@eui.eu"
+      },
+      {
+        "name": "Adrien Nicolle",
+        "email": "adrien.nicolle@eui.eu"
+      }      
+    ]
+  },
+  {
     "slug": "yeees-38",
-    "title": "YEEES 38: Delft",
+    "title": "YEEES 38: Delft 2026",
     "cost": "Free",
     "startDate": "2026-10-29",
     "endDate": "2026-10-30",
     "venue": "Delft University of Technology",
     "location": "Jaffaalaan 5, Delft, 2628 BX Netherlands",
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Jaffaalaan+5+Delft+2628+BX+Netherlands",
-    "image": "https://images.unsplash.com/photo-1565475481456-8c5ffabd7836?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0",
-    "summary": "The 38th Young Energy Economists and Engineers Seminar (YEEES) is hosted by the Faculty of Technology, Policy and Management at Delft University of Technology in Delft, The Netherlands.",
+    "image": "https://images.unsplash.com/photo-1565475481456-8c5ffabd7836",
+    "summary": "Hosted by the Faculty of Technology, Policy and Management at Delft University of Technology (Delft, The Netherlands).",
     "registrationUrl": "https://forms.gle/ou3gGBxQpSeWgvaJA",
     "registrationDeadline": "2026-07-12",
     "description": [
-      "On October 29 and 30, 2026, the 38th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Faculty of Technology, Policy and Management at Delft University of Technology in Delft, The Netherlands. The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "On October 29 and 30, 2026, the 38th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Faculty of Technology, Policy and Management at Delft University of Technology (Delft, The Netherlands). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
       "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present his or her work and review another Ph.D. student’s work. Senior reviewers will come from both industry and academia, and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present their critical review and give constructive comments. This is followed by questions and remarks from the audience.",
       "• Authors are requested to register and send their abstracts by July 12. Please limit the abstract to 2000 characters.",
       "• By July 17, authors will be notified of their acceptance (seats are limited).",
@@ -32,7 +1008,10 @@
       "You will find the program here after the notification of acceptance deadline."
     ],
     "organizers": [
-      { "name": "Kenneth Bruninx", "email": "kenneth.bruninx@tudelft.nl" }
+      {
+        "name": "Kenneth Bruninx",
+        "email": "kenneth.bruninx@tudelft.nl"
+      }
     ]
   }
 ]

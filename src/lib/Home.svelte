@@ -93,7 +93,7 @@
       <li>papers that either lie purely in the engineering realm, including fundamental and purely technical engineering research (e.g., you are developing or improving the efficiency of a new type of fuel cell, wind mill, solar panel, or combustion engine) or chemistry (e.g., you are developing a new kind of battery and want to present lab results on its performance), thermo- or fluid-dynamics, etc.</li>
       <li>papers that lie purely in the economics realm and have little to do with (the) energy (transition), for example pure micro-, macro- or financial economics</li>
       <li>papers that lie purely in the realm of environmental economics and do not deal with any concrete (techno-economic) aspects of the energy system, e.g. the degrowth literature, environmental footprint calculations, economics of forestry, rivers, biodiversity, etc.</li>
-      <li>papers that are purely about climate science (even though this might relate to indirectly to the energy transition)</li>
+      <li>papers that are purely about climate science (even though this might relate indirectly to the energy transition)</li>
     </ul>
     <p>
       In case of doubt, please do not hesitate to send your abstract to the custom email address of the YEEES conference you are considering to attend, to check with the organizers if your paper is deemed a good fit.

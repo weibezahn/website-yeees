@@ -62,7 +62,7 @@
     <div class="container">
       <h2>Program</h2>
       {#if event.programUrl}
-        <a class="button primary" href={event.programUrl} target="_blank" rel="noreferrer">Download Program</a>
+        <a class="button primary" href={withBase(`programs/${event.programUrl}`)} target="_blank" rel="noreferrer">Download Program</a>
       {:else}
         <p>{event.program[0]}</p>
       {/if}
