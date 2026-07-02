@@ -6,19 +6,14 @@
 
   <script>
     (function () {
-      var base = "/website-yeees/";
       var path = window.location.pathname;
-
-      // Strip the repository base
-      if (path.startsWith(base)) {
-        path = path.substring(base.length);
-      }
 
       // Preserve query string and hash
       var redirect =
-        base +
-        "?route=" +
-        encodeURIComponent("/" + path + window.location.search + window.location.hash);
+        "/?route=" +
+        encodeURIComponent(
+          path + window.location.search + window.location.hash
+        );
 
       window.location.replace(redirect);
     })();
