@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig(({ command }) => ({
   plugins: [svelte()],
-  base: command === 'serve' ? '/' : '/website-yeees/',
+  base: '/',
   build: {
     rollupOptions: {
       input: {
