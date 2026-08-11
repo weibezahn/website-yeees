@@ -1,24 +1,100 @@
 [
+ {
+    "slug": "yeees-1",
+    "title": "YEEES 1: Leuven 2006",
+    "cost": "Free",
+    "startDate": "2006-10-16",
+    "endDate": "2006-10-16",
+    "venue": "KU Leuven",
+    "location": "Room ESAT 00.62, Department of Electrical Engineering,Kasteelpark Arenberg 10, 3001 Leuven, Belgium",
+    "mapsUrl": "https://maps.app.goo.gl/wYv5fyX5SD2rd8X57",
+    "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
+    "summary": "Hosted by the Department of Electrical Engineering at KU Leuven (Leuven, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [],
+    "importantDates": [],
+    "programUrl": "yeees-01-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Leonardo Meeus",
+        "email": ""
+      }
+    ]
+  },
   {
-    "slug": "yeees-4",
-    "title": "YEEES 4: Paris 2007",
+    "slug": "yeees-2",
+    "title": "YEEES 2: Dresden 2007",
+    "cost": "Free",
+    "startDate": "2007-04-11",
+    "endDate": "2007-04-12",
+    "venue": "Technische Universität Dresden",
+    "location": "Münchner Platz 3, 01069 Dresden, Germany",
+    "mapsUrl": "https://maps.app.goo.gl/rmjxinmfz3zGAh1T8",
+    "image": "https://images.unsplash.com/photo-1639071923957-dfaae89189bb",
+    "summary": "Hosted by the Chair of Energy Economics and Public Sector Management (EE2) at Technische Universität Dresden (Dresden, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [],
+    "importantDates": [],
+    "programUrl": "yeees-02-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Florian Leuthold",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-3",
+    "title": "YEEES 3: Paris 2007",
     "cost": "Free",
     "startDate": "2007-09-28",
     "endDate": "2007-09-29",
     "venue": "Université Paris-Sud",
-    "location": "Paris, France",
-    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Paris+France",
+    "location": "Campus de Fontenay, Bâtiment C, 4th Floor, 27 avenue Ernest Lombart, 92260 Fontenay aux Roses, France",
+    "mapsUrl": "https://maps.app.goo.gl/QJGkVdbBQh8BDHfg7",
     "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94",
-    "summary": "Hosted by Université Paris-Sud (Paris, France).",
+    "summary": "Hosted by Groupe Réseaux Jean-Monnet at Université Paris-Sud (Paris, France).",
     "registrationUrl": "",
-    "registrationDeadline": "",
-    "description": ["The 4th Young Energy Economists and Engineers Seminar (YEEES) was held at Université Paris-Sud in Paris, France."],
+    "registrationDeadline": "2007-09-11",
+    "description": [],
     "importantDates": [],
-    "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "programUrl": "yeees-03-program.pdf",
+    "program": [],
     "organizers": [
       {
-        "name": "Yannik Perez",
+        "name": "Yannick Perez",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-4",
+    "title": "YEEES 4: Vienna 2008",
+    "cost": "Free",
+    "startDate": "2008-04-24",
+    "endDate": "2008-04-25",
+    "venue": "Technische Universität Wien",
+    "location": "Vienna, Austria",
+    "mapsUrl": "",
+    "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af",
+    "summary": "Hosted by the Energy Economics Group (EEG) at Technische Universität Wien (Vienna, Austria).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [],
+    "importantDates": [],
+    "programUrl": "yeees-04-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Hans Auer",
+        "email": ""
+      },
+      {
+        "name": "Reinhard Haas",
         "email": ""
       }
     ]
@@ -39,7 +115,7 @@
     "description": ["The 5th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": []
   },
   {
@@ -58,8 +134,32 @@
     "description": ["The 6th Young Energy Economists and Engineers Seminar (YEEES) was held at the Florence School of Regulation (FSR) at the European University Institute (EUI) in Florence, Italy."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": []
+  },
+  {
+    "slug": "yeees-7",
+    "title": "YEEES 7: Leuven 2009",
+    "cost": "Free",
+    "startDate": "2009-11-19",
+    "endDate": "2009-11-20",
+    "venue": "KU Leuven",
+    "location": "Hogenheuvelinstituut, Naamsestraat 69, 3000 Leuven, Belgium",
+    "mapsUrl": "https://maps.app.goo.gl/5FNQYnDJ4XisZqQH7",
+    "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
+    "summary": "Hosted by the Center for Economic Studies at KU Leuven (Leuven, Belgium).",
+    "registrationUrl": "",
+    "registrationDeadline": "2009-10-25",
+    "description": [],
+    "importantDates": [],
+    "programUrl": "yeees-07-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Gerd Küpper",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-8",
@@ -77,7 +177,7 @@
     "description": ["The 8th Young Energy Economists and Engineers Seminar (YEEES) was held at the University of Cambridge in United Kingdom."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": []
   },
   {
@@ -96,7 +196,7 @@
     "description": ["The 11th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": []
   },
   {
@@ -115,7 +215,7 @@
     "description": ["The 12th Young Energy Economists and Engineers Seminar (YEEES) was held at the Workgroup for Infrastructure Policy (WIP) at Technische Universität Berlin in Berlin, Germany."],
     "importantDates": [],
     "programUrl": "",
-    "program": [],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Jonas Egerer",
@@ -139,7 +239,7 @@
     "description": ["The 13th Young Energy Economists and Engineers Seminar (YEEES) was held at the Florence School of Regulation (FSR) at the European University Institute (EUR) in Florence, Italy."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": []
   },
   {
@@ -158,7 +258,7 @@
     "description": ["The 14th Young Energy Economists and Engineers Seminar (YEEES) was held at Technische Universität Wien in Vienna, Austria."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "André Ortner",
@@ -182,7 +282,7 @@
     "description": ["The 15th Young Energy Economists and Engineers Seminar (YEEES) was held at KTH Stockholm in Stockholm, Sweden."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Richard Scharf",
@@ -201,10 +301,10 @@
     "startDate": "2014-04-09",
     "endDate": "2014-04-10",
     "venue": "Technische Universität Dresden",
-    "location": "Dresden, Germany",
-    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Dresden+Germany",
+    "location": "Münchner Platz 3, 01069 Dresden, Germany",
+    "mapsUrl": "https://maps.app.goo.gl/rmjxinmfz3zGAh1T8",
     "image": "https://images.unsplash.com/photo-1639071923957-dfaae89189bb",
-    "summary": "Hosted by Technische Universität Dresden (Dresden, Germany).",
+    "summary": "Hosted by the Chair of Energy Economics and Public Sector Management (EE2) at Technische Universität Dresden (Dresden, Germany).",
     "registrationUrl": "",
     "registrationDeadline": "",
     "description": ["The 16th Young Energy Economists and Engineers Seminar (YEEES) was held at Technische Universität Dresden in Dresden, Germany."],
@@ -225,16 +325,16 @@
     "startDate": "2014-11-27",
     "endDate": "2014-11-28",
     "venue": "KU Leuven",
-    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
-    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "location": "Room De Groote en Waterkeyn, Department of Mechanical Engineering, Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.app.goo.gl/wYv5fyX5SD2rd8X57",
     "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
     "summary": "Hosted by KU Leuven (Leuven, Belgium).",
     "registrationUrl": "",
     "registrationDeadline": "2014-09-15",
     "description": ["The 17th Young Energy Economists and Engineers Seminar (YEEES) was held at KU Leuven in Leuven, Belgium."],
     "importantDates": [],
-    "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "programUrl": "yeees-17-program.pdf",
+    "program": [],
     "organizers": [
       {
         "name": "Kenneth van den Bergh",
@@ -262,10 +362,10 @@
     "description": ["The 18th Young Energy Economists and Engineers Seminar (YEEES) was held at Université Paris-Sud in Paris, France."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
-        "name": "Yannik Perez",
+        "name": "Yannick Perez",
         "email": ""
       }
     ]
@@ -286,7 +386,7 @@
     "description": ["The 19th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Aurora del Valle Díez",
@@ -314,7 +414,7 @@
     "description": ["The 20th Young Energy Economists and Engineers Seminar (YEEES) was held at University of Basel in Basel, Switzerland."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Hannes Weigt",
@@ -338,7 +438,7 @@
     "description": ["The 21st Young Energy Economists and Engineers Seminar (YEEES) was held at University of Edinburgh in Edinburgh, United Kingdom."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Harry van der Weijde",
@@ -362,7 +462,7 @@
     "description": ["The 22nd Young Energy Economists and Engineers Seminar (YEEES) was held at Friedrich-Alexander University Erlangen-Nürnberg in Nuremberg, Germany."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Jonas Egerer",
@@ -386,7 +486,7 @@
     "description": ["The 23rd Young Energy Economists and Engineers Seminar (YEEES) was held at Łódź University of Technology in Łódź, Poland."],
     "importantDates": [],
     "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "program": ["The program is unfortunately not available online."],
     "organizers": [
       {
         "name": "Izabela Filipiak",
@@ -486,10 +586,10 @@
     "startDate": "2019-06-03",
     "endDate": "2019-06-04",
     "venue": "KU Leuven",
-    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
-    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "location": "Department of Mechanical Engineering, Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.app.goo.gl/wYv5fyX5SD2rd8X57",
     "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
-    "summary": "Hosted by KU Leuven (Leuven, Belgium).",
+    "summary": "Hosted by the Department of Mechanical Engineering at KU Leuven (Leuven, Belgium).",
     "registrationUrl": "",
     "registrationDeadline": "2019-04-11",
     "description": [
@@ -506,8 +606,8 @@
       "April 15, 2019: notification of acceptance",
       "May 15, 2019: full paper submission"
     ],
-    "programUrl": "",
-    "program": ["The program is unfortnately not available online."],
+    "programUrl": "yeees-26-program.pdf",
+    "program": [],
     "organizers": [
       {
         "name": "Eric Delarue",
@@ -587,7 +687,7 @@
     "program": [],
     "organizers": [
       {
-        "name": "Yannik Perez",
+        "name": "Yannick Perez",
         "email": ""
       },
       {
@@ -764,8 +864,8 @@
     "startDate": "2024-05-30",
     "endDate": "2024-05-31",
     "venue": "KU Leuven",
-    "location": "Celestijnenlaan 300, Leuven, 3001, Belgium",
-    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Celestijnenlaan+300+Leuven+3001+Belgium",
+    "location": "Department of Mechanical Engineering, Celestijnenlaan 300, Leuven, 3001, Belgium",
+    "mapsUrl": "https://maps.app.goo.gl/wYv5fyX5SD2rd8X57",
     "image": "https://images.unsplash.com/photo-1617703445500-55c214ed1daa",
     "summary": "Hosted by the Energy Systems Integration & Modeling group at KU Leuven (Leuven, Belgium).",
     "registrationUrl": "",
@@ -1011,6 +1111,58 @@
       {
         "name": "Kenneth Bruninx",
         "email": "kenneth.bruninx@tudelft.nl"
+      }
+    ]
+  },
+  {
+    "slug": "yeees-39",
+    "title": "YEEES 39: Dublin 2027",
+    "cost": "Free",
+    "startDate": "spring-2027",
+    "endDate": "spring-2027",
+    "venue": "University College Dublin",
+    "location": "Dublin, Ireland",
+    "mapsUrl": "",
+    "image": "https://images.unsplash.com/photo-1605969353711-234dea348ce1",
+    "summary": "Hosted by institute at University College Dublin (Dublin, Ireland).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [],
+    "importantDates": ["To be announced."],
+    "programUrl": "",
+    "program": ["You will find the program here after the notification of acceptance deadline."],
+    "organizers": [
+      {
+        "name": "Lisa Ryan",
+        "email": "lisa.ryan@ucd.ie"
+      }
+    ]
+  },
+  {
+    "slug": "yeees-40",
+    "title": "YEEES 40: Nuremberg 2027",
+    "cost": "Free",
+    "startDate": "autumn-2027",
+    "endDate": "autumn-2027",
+    "venue": "University of Technology Nuremberg",
+    "location": "Nuremberg, Germany",
+    "mapsUrl": "",
+    "image": "https://images.unsplash.com/photo-1590651639672-5f0178aa4812",
+    "summary": "Hosted by institute at University of Technology Nuremberg (Nuremberg, Germany).",
+    "registrationUrl": "",
+    "registrationDeadline": "",
+    "description": [],
+    "importantDates": ["To be announced."],
+    "programUrl": "",
+    "program": ["You will find the program here after the notification of acceptance deadline."],
+    "organizers": [
+      {
+        "name": "Jonas Egerer",
+        "email": "jonas.egerer@utn.de"
+      },
+      {
+        "name": "Lukas Achtnicht",
+        "email": "lukas.achtnicht@utn.de"
       }
     ]
   }
