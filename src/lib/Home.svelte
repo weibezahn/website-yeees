@@ -1,12 +1,15 @@
 <script>
   import { withBase } from '/src/lib/baseUrl.js';
   import events from '../data/events.json'
-  import { formatDateRange } from './dateHelpers.js'
+  import { formatDateRange, parseEventDate, compareEvents } from './dateHelpers.js'
 
   const today = new Date()
   const upcomingEvents = events
-    .filter(event => new Date(event.endDate) >= today)
-    .sort((a, b) => new Date(a.startDate) - new Date(b.startDate))
+    .filter(event => {
+      const end = parseEventDate(event.endDate)
+      return end && end >= today
+    })
+    .sort(compareEvents)
 
   const networkLogos = [
     { name: 'Uni Basel', url: 'http://www.unibas.ch', file: 'logo-uni_basel.jpg' },

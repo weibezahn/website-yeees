@@ -1,9 +1,9 @@
 <script>
   import { withBase } from '/src/lib/baseUrl.js';
-  import { formatDateRange } from './dateHelpers.js'
+  import { formatDateRange, compareEvents } from './dateHelpers.js'
   export let events = []
 
-  const sortedEvents = [...events].sort((a, b) => new Date(b.startDate) - new Date(a.startDate))
+  const sortedEvents = [...events].sort((a, b) => compareEvents(b, a))
 </script>
 
 <section class="content-section" id="calendar">

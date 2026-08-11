@@ -1,6 +1,7 @@
 <script>
   import { withBase } from './baseUrl.js'
   import events from '../data/events.json'
+  import { parseEventDate, compareEvents } from './dateHelpers.js'
 
   export let goto
 
@@ -9,9 +10,11 @@
   const now = new Date()
 
   $: upcoming = events
-    .map((e) => ({ ...e, start: new Date(e.startDate) }))
-    .filter((e) => !Number.isNaN(e.start.getTime()) && e.start >= now)
-    .sort((a, b) => a.start - b.start)
+    .filter((event) => {
+      const start = parseEventDate(event.startDate)
+      return start && start >= now
+    })
+    .sort(compareEvents)
 
   $: nextEvent = upcoming.length ? upcoming[0] : null
 
