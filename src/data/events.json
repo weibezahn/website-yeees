@@ -109,14 +109,23 @@
     "location": "Madrid, Spain",
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Madrid+Spain",
     "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325",
-    "summary": "Hosted by Comillas Pontifical University (Madrid, Spain).",
+    "summary": "Hosted by the Institute for Research in Technology (IIT) at Comillas Pontifical University (Madrid, Spain).",
     "registrationUrl": "",
-    "registrationDeadline": "",
+    "registrationDeadline": "2008-09-01",
     "description": ["The 5th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
     "importantDates": [],
-    "programUrl": "",
-    "program": ["The program is unfortunately not available online."],
-    "organizers": []
+    "programUrl": "yeees-05-program.pdf",
+    "program": [],
+    "organizers": [
+      {
+        "name": "Luis Olmos",
+        "email": ""
+      },
+      {
+        "name": "Julián Barquín",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-6",
@@ -125,7 +134,7 @@
     "startDate": "2009-06-01",
     "endDate": "2009-06-02",
     "venue": "European University Institute - Florence School of Regulation",
-    "location": "Via della Badia dei Roccettini 9, Fiesole, 50014, FI",
+    "location": "Via delle Fontanelle 19, 50014 San Domenico di Fiesole, Italy",
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Via+della+Badia+dei+Roccettini+9+Fiesole+50014+FI",
     "image": "https://images.unsplash.com/photo-1472507393786-716cd8288c07",
     "summary": "Hosted by the Florence School of Regulation (FSR) at the European University Institute (EUI) (Florence, Italy).",
@@ -135,7 +144,16 @@
     "importantDates": [],
     "programUrl": "",
     "program": ["The program is unfortunately not available online."],
-    "organizers": []
+    "organizers": [
+      {
+        "name": "Léonardo Meeus",
+        "email": ""
+      },
+      {
+        "name": "Yannick Perez",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-7",
@@ -166,19 +184,52 @@
     "title": "YEEES 8: Cambridge 2010",
     "cost": "Free",
     "startDate": "2010-04-08",
-    "endDate": "2010-04-19",
+    "endDate": "2010-04-09",
     "venue": "University of Cambridge",
-    "location": "Cambridge, United Kingdom",
+    "location": "Economics Building, Sidgwick Site, Cambridge, United Kingdom",
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=University+of+Cambridge",
     "image": "https://images.unsplash.com/photo-1627411437849-4bc5a9b9341d",
-    "summary": "Hosted by University of Cambridge (Cambridge, United Kingdom).",
+    "summary": "Hosted by the Electricity Policy Research Group at the University of Cambridge (Cambridge, United Kingdom).",
     "registrationUrl": "",
-    "registrationDeadline": "",
+    "registrationDeadline": "2010-03-15",
     "description": ["The 8th Young Energy Economists and Engineers Seminar (YEEES) was held at the University of Cambridge in United Kingdom."],
     "importantDates": [],
     "programUrl": "",
     "program": ["The program is unfortunately not available online."],
-    "organizers": []
+    "organizers": [
+      {
+        "name": "Ben Hobbs",
+        "email": ""
+      }
+    ]
+  },
+  {
+    "slug": "yeees-9",
+    "title": "YEEES 9: Dublin 2010",
+    "cost": "Free",
+    "startDate": "2010-11-26",
+    "endDate": "2010-11-27",
+    "venue": "University College Dublin",
+    "location": "Dublin, Ireland",
+    "mapsUrl": "",
+    "image": "https://images.unsplash.com/photo-1605969353711-234dea348ce1",
+    "summary": "Hosted by the Electricity Research Centre at the University College Dublin and Trinity College Dublin (Dublin, Ireland).",
+    "registrationUrl": "",
+    "registrationDeadline": "2010-10-15",
+    "description": [],
+    "importantDates": [],
+    "programUrl": "",
+    "program": ["The program is unfortunately not available online."],
+    "organizers": [
+      {
+        "name": "Amy O'Mahoney",
+        "email": ""
+      },
+      {
+        "name": "Eamonn Lannoye",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-11",
@@ -190,14 +241,23 @@
     "location": "Madrid, Spain",
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Madrid+Spain",
     "image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325",
-    "summary": "Hosted by Comillas Pontifical University (Madrid, Spain).",
+    "summary": "Hosted by the Institute for Research in Technology at Comillas Pontifical University (Madrid, Spain).",
     "registrationUrl": "",
-    "registrationDeadline": "",
+    "registrationDeadline": "2011-10-14",
     "description": ["The 11th Young Energy Economists and Engineers Seminar (YEEES) was held at Comillas Pontifical University in Madrid, Spain."],
     "importantDates": [],
     "programUrl": "",
     "program": ["The program is unfortunately not available online."],
-    "organizers": []
+    "organizers": [
+      {
+        "name": "Sonja Wogrin",
+        "email": ""
+      },
+      {
+        "name": "Pablo Dueñas",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-12",
@@ -240,7 +300,16 @@
     "importantDates": [],
     "programUrl": "",
     "program": ["The program is unfortunately not available online."],
-    "organizers": []
+    "organizers": [
+      {
+        "name": "Michelle Hallack",
+        "email": ""
+      },
+      {
+        "name": "Miguel Vazquez",
+        "email": ""
+      }
+    ]
   },
   {
     "slug": "yeees-14",
@@ -262,6 +331,14 @@
     "organizers": [
       {
         "name": "André Ortner",
+        "email": ""
+      },
+      {
+        "name": "Raphael Bointner",
+        "email": ""
+      },
+      {
+        "name": "Marcus HUmmel",
         "email": ""
       }
     ]
@@ -304,9 +381,9 @@
     "location": "Münchner Platz 3, 01069 Dresden, Germany",
     "mapsUrl": "https://maps.app.goo.gl/rmjxinmfz3zGAh1T8",
     "image": "https://images.unsplash.com/photo-1639071923957-dfaae89189bb",
-    "summary": "Hosted by the Chair of Energy Economics and Public Sector Management (EE2) at Technische Universität Dresden (Dresden, Germany).",
+    "summary": "Hosted by the Chair of Energy Economics (EE2) at Technische Universität Dresden (Dresden, Germany).",
     "registrationUrl": "",
-    "registrationDeadline": "",
+    "registrationDeadline": "2014-03-07",
     "description": ["The 16th Young Energy Economists and Engineers Seminar (YEEES) was held at Technische Universität Dresden in Dresden, Germany."],
     "importantDates": [],
     "programUrl": "yeees-16-program.pdf",
