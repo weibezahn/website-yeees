@@ -27,6 +27,7 @@
     { name: 'Lodz University of Technology', url: 'http://www.p.lodz.pl', file: 'logo-tu_lodz.jpg' },
     { name: 'Comillas', url: 'http://www.comillas.edu', file: 'logo-comillas.png' },
     { name: 'FAU', url: 'http://www.fau.de', file: 'logo-fau.png' },
+    { name: 'UTN', url: 'http://www.utn.de', file: 'logo-utn.png' },
     { name: 'CentraleSupélec', url: 'http://www.centralesupelec.fr', file: 'logo-centralesupelec.png' },
     { name: 'Université Paris-Sud', url: 'http://www.u-psud.fr', file: 'logo-uni_paris_sud.png' },
     { name: 'KTH Stockholm', url: 'http://www.kth.se', file: 'logo-kth.png' },
