@@ -1163,7 +1163,7 @@
     "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Jaffaalaan+5+Delft+2628+BX+Netherlands",
     "image": "https://images.unsplash.com/photo-1565475481456-8c5ffabd7836",
     "summary": "Hosted by the Faculty of Technology, Policy and Management at Delft University of Technology (Delft, The Netherlands).",
-    "registrationUrl": "https://forms.gle/ou3gGBxQpSeWgvaJA",
+    "registrationUrl": "",
     "registrationDeadline": "2026-07-12",
     "description": [
       "On October 29 and 30, 2026, the 38th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the Faculty of Technology, Policy and Management at Delft University of Technology (Delft, The Netherlands). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
@@ -1180,10 +1180,8 @@
       "October 11, 2026: full paper submission",
       "October 26, 2026: feedback submission (as a junior reviewer of another participant’s paper)"
     ],
-    "programUrl": "",
-    "program": [
-      "You will find the program here after the notification of acceptance deadline."
-    ],
+    "programUrl": "yeees-38-program.pdf",
+    "program": [],
     "organizers": [
       {
         "name": "Kenneth Bruninx",
@@ -1191,23 +1189,38 @@
       }
     ]
   },
-  {
+    {
     "slug": "yeees-39",
     "title": "YEEES 39: Dublin 2027",
     "cost": "Free",
-    "startDate": "spring-2027",
-    "endDate": "spring-2027",
+    "startDate": "2027-03-11",
+    "endDate": "2027-03-12",
     "venue": "University College Dublin",
-    "location": "Dublin, Ireland",
-    "mapsUrl": "",
+    "location": "University College Dublin, Belfield, Dublin 4, Ireland",
+    "mapsUrl": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=University+College+Dublin+Belfield+Dublin+4+Ireland",
     "image": "https://images.unsplash.com/photo-1605969353711-234dea348ce1",
     "summary": "Hosted by the School of Economics at University College Dublin (Dublin, Ireland).",
-    "registrationUrl": "",
-    "registrationDeadline": "",
-    "description": [],
-    "importantDates": ["To be announced."],
+    "registrationUrl": "https://forms.gle/DMMGPwr6qJYmnbm18",
+    "registrationDeadline": "2027-01-10",
+    "description": [
+      "On March 11 and 12, 2027, the 39th Young Energy Economists and Engineers Seminar (YEEES) will be hosted by the School of Economics at University College Dublin (Dublin, Ireland). The seminar gives Ph.D. students the opportunity to present their working papers and receive feedback from their peers and senior reviewers in a friendly and constructive atmosphere.",
+      "For each paper, two reviewers will be selected before the seminar: one senior researcher and one of the participating Ph.D. students. This means every participant will present their work and review another Ph.D. student’s work. Senior reviewers will come from both industry and academia, and the review assignments will be made according to the areas of expertise of both senior and Ph.D. reviewers. For the presentation of each paper, we plan to offer 20 minutes. Then, each reviewer will have around 5-10 minutes to present their critical review and give constructive comments. This is followed by questions and remarks from the audience.",
+      "• Authors are requested to register and send their abstracts by January 10, 2027. Please limit the abstract to 2000 characters.",
+      "• By January 15, 2027, authors will be notified of their acceptance (seats are limited).",
+      "• Full papers (consistent finished or draft version) must be handed in by February 21, 2027. Please limit the paper to 20 pages (excluding the appendix), single-spaced, 10-point font.",
+      "• Papers are sorted by the organizers and distributed to two peer reviewers. We do not publish papers. Junior reviewers have to submit their feedback by March 8, 2027.",
+      "• People wishing to attend without presenting a paper can do so (if there are seats left) by registering by March 8, 2027."
+    ],
+    "importantDates": [
+      "January 10, 2027: abstract submission and registration of authors",
+      "January 15, 2027: notification of acceptance",
+      "February 21, 2027: full paper submission",
+      "March 8, 2027: feedback submission (as a junior reviewer of another participant’s paper)"
+    ],
     "programUrl": "",
-    "program": ["You will find the program here after the notification of acceptance deadline."],
+    "program": [
+      "You will find the program here after the notification of acceptance deadline."
+    ],
     "organizers": [
       {
         "name": "Lisa Ryan",
